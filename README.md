@@ -214,8 +214,3 @@ GitHub: github.com/youssefshawat
 LinkedIn: www.linkedin.com/inyoussef-shawat-49971939
 
 Watsapp :+20 01284926787
-
-## 🙏 Acknowledgments
-
-- [Udacity](https://www.udacity.com/) - For the Data Science Nanodegree program
-- Bike Share companies of Chicago, New York, and Washington for providing the data
