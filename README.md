@@ -32,11 +32,6 @@ The project answers three key questions about bikeshare usage patterns:
 | `ggplot2` | Data visualization (plots & charts) |
 | `base R` | Data manipulation and statistics |
 
-### Data Sources
-- **Chicago**: Bike share data with user demographics
-- **New York**: Bike share data with user demographics
-- **Washington**: Bike share data (core metrics only)
-
 ---
 
 ## 📁 Project Structure
