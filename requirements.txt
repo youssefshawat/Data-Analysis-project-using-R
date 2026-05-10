@@ -1,0 +1,14 @@
+# R Package Dependencies for Bikeshare EDA Project
+# Install these packages before running the analysis
+
+# Core visualization package
+ggplot2>=3.3.0
+
+# Alternative packages for enhanced visualizations (optional)
+# gridExtra>=2.3
+# scales>=1.1.0
+# patchwork>=1.0.0
+
+# For data manipulation (optional enhancements)
+# dplyr>=1.0.0
+# tidyr>=1.1.0

@@ -1,0 +1,11 @@
+X,Start.Time,End.Time,Trip.Duration,Start.Station,End.Station,User.Type,Gender,Birth.Year
+5688089,2017-06-11 14:55:05,2017-06-11 15:08:21,795,Suffolk St & Stanton St,W Broadway & Spring St,Subscriber,Male,1998
+4096714,2017-05-11 15:30:11,2017-05-11 15:41:43,692,Lexington Ave & E 63 St,1 Ave & E 78 St,Subscriber,Male,1981
+2173887,2017-03-29 13:26:26,2017-03-29 13:48:31,1325,1 Pl & Clinton St,Henry St & Degraw St,Subscriber,Male,1987
+3945638,2017-05-08 19:47:18,2017-05-08 19:59:01,703,Barrow St & Hudson St,W 20 St & 8 Ave,Subscriber,Female,1986
+6208972,2017-06-21 07:49:16,2017-06-21 07:54:46,329,1 Ave & E 44 St,E 53 St & 3 Ave,Subscriber,Male,1992
+1285652,2017-02-22 18:55:24,2017-02-22 19:12:03,998,State St & Smith St,Bond St & Fulton St,Subscriber,Male,1986
+3456789,2017-04-18 08:00:00,2017-04-18 08:20:00,1200,E 7 St & Avenue A,Cooper Square & E 7 St,Customer,Unknown,1985
+4567890,2017-03-22 17:30:00,2017-03-22 17:50:00,1200,Central Park S & 6 Ave,Central Park S & 6 Ave,Customer,Female,1990
+5678901,2017-01-15 09:00:00,2017-01-15 09:10:00,600,Centre St & Chambers St,Centre St & Chambers St,Subscriber,Male,1982
+6789012,2017-06-05 12:15:00,2017-06-05 12:35:00,1200,Pershing Square North,W 33 St & 7 Ave,Customer,Male,1988
