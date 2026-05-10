@@ -206,11 +206,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
+Youssef Yasser (Youssef Shawat)
+Data Science & AI Student @ِ ANU 
 
-*For questions or feedback, please open an issue on GitHub.*
+GitHub: github.com/youssefshawat
 
----
+LinkedIn: www.linkedin.com/inyoussef-shawat-49971939
+
+Watsapp :+20 01284926787
 
 ## 🙏 Acknowledgments
 
